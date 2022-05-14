@@ -8,10 +8,10 @@ $(() => {
       nav: false,
       responsive: {
         0: {
-          items: 1
+          items: 2
         },
         600: {
-          items: 3
+          items: 4
         },
         1000: {
           items: 5.5
@@ -25,13 +25,13 @@ $(() => {
       nav: false,
       responsive: {
         0: {
-          items: 1
+          items: 3
         },
         600: {
-          items: 2
+          items: 5
         },
         1000: {
-          items: 7
+          items: 6
         }
       }
     });
@@ -42,13 +42,13 @@ $(() => {
       nav: false,
       responsive: {
         0: {
-          items: 1
+          items: 3
         },
         600: {
-          items: 1
+          items: 5
         },
         1000: {
-          items: 7
+          items: 6
         }
       }
     });
